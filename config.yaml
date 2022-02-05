@@ -1,0 +1,19 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Trouvaille
+theme: papermod
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
