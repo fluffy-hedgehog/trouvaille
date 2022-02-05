@@ -80,7 +80,8 @@
 <div class="home-blocks">
 {{- range $page := $pages }}
 <a href="{{ $page.RelPermalink }}">
-  <div style="background-image: url(/{{ $page.Params.coverImage }});"></div>
+  <div style="background-image: url({{ .Site.BaseURL
+  }}{{ $page.Params.coverImage }});"></div>
   <span>{{ $page.Title }}</span>
 </a>
 {{- end }}
