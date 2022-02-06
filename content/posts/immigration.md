@@ -13,7 +13,7 @@ This article will be divided into parts, with each part focusing on a different 
 
 The very very earliest immigrants to what is now Grand Rapids would of course be Native Americans. The Hopewell were the very first people in the Grand Rapids area. Although Michigan doesn't have the most sophisticated settlements, there are numerous burial grounds such as the Norton Mound Group in Grand Rapids that have provided lots of information about these original Natives. More mounds existed on the West Side of the Grand River, but those were razed and replaced with railroads and factories. There are now a few recreation mounds in Grand Rapids (such as in Ah-Nab-Awen Park) to commemorate the loss.
 
-![Ah-Nab-Awen Park Mound](/ahnabawenmound.jpg)
+![Ah-Nab-Awen Park Mound](/trouvaille/ahnabawenmound.jpg)
 *Photo of Ah-Nab-Awen Park with a mound in the background*
 
 The Hopewell tribe built mounds from 10 B.C. to 400 A.D., but after that, no one is quite sure where they went or why they stopped building. Although they may be the distant ancestors of modern tribes, the Hopewell tribe vanished, leaving much speculation in their wake. By the 1700s, the Ottowa tribes then settled in the Grand Rapids area and set up multiple villages, with the largest being right here in downtown Grand Rapids. After this, there is a 100 year gap between the Native Americans and European settlers. Just like so many interactions across the United States, Natives and Europeans did not get along. One quote [^1] from Louis Campau reads, 
@@ -47,7 +47,7 @@ As for the Poles, not much is talked about by Baxter, but an article done by Edu
 
 Arriving in America was a great relief for her and her family, as they could then have the freedom to speak Polish and practice their religion. The pair settled on the east side of the Grand River near the brickyards, or as they called it, the *Cegielnia*. John was able to work there as a master potter until he opened his own practice with Samuel Davis. Valeria and John were able to sponsor another 40 Polish families to come to Grand Rapids, and helped them intigrate into society. She served as a social worker, translator, tutor, midwife, nurse, intermediary with local officials, and godmother. She also was responsible for the formation of many organisations and churches, including St. Mary's, St. Adalbert's, and St. Isidore's, as well as the Wiarus Society and Society of Polish ladies. 
 
-![Valeria Lipczynski](/lipczynski.jpg)
+![Valeria Lipczynski](/trouvaille/lipczynski.jpg)
 *Image Courtesy of the Grand Rapids History & Special Collections, GRPL*
 
 When WWI arrived, Mme. Lipczynski used their home as a station for Polish relief work. She helped collect items and money to support her home country and to help free it. Through this, she was awarded the General Haller Swords metal, and the Polish government granted her the Golden Cross of Merit for her work in supporting the Polish people, and building the Polish society.
@@ -55,7 +55,7 @@ When WWI arrived, Mme. Lipczynski used their home as a station for Polish relief
 ## Part 2: A taste of segregation
 Although African Americans did not arrive in Grand Rapids very quickly, Grand Rapids was born ready to divide. As soon as the Dutch arrived, they began to settle in their own communities based on family ties or dialect. Rather than settle together as "Hollanders", they identified more as "Zeelanders", "Groningers", etc. This lead to neighborhoods being built on ethnic divides. Even as old disputes between different countries were forgotten, a new conflict arose, this time based on skin color.
 
-![The Walking City - Ethnic Neighborhoods Map](/ethnicneighborhoods.jpg)
+![The Walking City - Ethnic Neighborhoods Map](/trouvaille/ethnicneighborhoods.jpg)
 1. Germans were among the first immigrants to the city in the 1850s. Polish immigrants who spoke German settled easily among them from the 1870s on into the 20th century. Later immigrants to this area included Irish, Norwegian, Swedish, Danish, and Austrian, producing one of the most multi-ethnic areas of the city. Boundaries: N-2nd, W-Lane, E-Grand River, S-Lake Michigan.
 2. West Side Jewish neighborhood - Temple Ahavas Achim, around 1900. Boundaries: N-10th, W-Broadway, E-Grand River, S-1st.
 3. The Grandville Avenue corridor has been the city's "gateway" since the 1830s, when the city's very first Irish and French immigrants settled there. A host of other ethnic groups settled there at one time and moved on to other parts of the city, including Dutch, Hungarian, Syrian, Lebanese, Iraqi, African American, and Italian.

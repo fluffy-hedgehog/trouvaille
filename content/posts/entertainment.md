@@ -18,7 +18,7 @@ Before we begin, it is important to differentiate between the variety of establi
 
 Unlike what the name suggests, the Power's Opera House hosted a variety of entertainment, from theater and stage plays, to operas and concerts. William T. Powers first built the Opera house between 1873-1874, and it was opened on Tuesday, May 12, 1874. It carried the name "Power's Opera House" as well as "Power's Grand Opera House". The latter name came when William Powers retired in May, 1887, and Mr. Fred Berger arrived. The Opera House went through many changes and fires. To view a full timeline of events, there is a very comprehensive article by [James Winslow Di Piazza](https://powersbehindgr.wordpress.com/powers-theatre/) that has a lot of details about said events.
 
-![Powers Theater 1936](/powerstheater.png)
+![Powers Theater 1936](/trouvaille/powerstheater.png)
 
 *A supposed 1936 photo I found in a random comment section courtesy of ["kencmcintyre"](http://cinematreasures.org/theaters/22322). I will update this if proper image credits are found, but a reverse image search yielded nothing.*
 
@@ -88,7 +88,7 @@ Some of the playbills from the Opera House can be found [here](https://powersbeh
 
 Founded in 1893 by Willis H. Turner, the Newsboy Band thrived up until the 1923 when the bandleader, Professor J.M. Lafferty, died. The Newsboy band was something all newsboys strived to get into in order to get the opportunity to learn, from scratch, a musical instrument and to perform in everything from parades to banquets.
 
-![Evening Press Newsboy Band](/newsboyband.png)
+![Evening Press Newsboy Band](/trouvaille/newsboyband.png)
 *Image Courtesy of the Grand Rapids Public Library. Read more at the [History of Grand Rapids](http://www.historygrandrapids.org/article/4548/19th-century-bands-of-grand-ra#_ednref1) webpage.*
 
 The band was a phenomanal success, to the point where it didn't just stay in Grand Rapids. In fact, the band traveled to Indianapolis in 1897 and played at a sellout concert. This concert may have sparked the formation of Indianapolis' own newsboy band, which had 350 children auditioning. John Philip Sousa alledgedly remarked, "It is something remarkable that, in so short a time three dozen untutored newsboys could be made to play so well. As a rule I abhor juvenile bands, but these little chaps delight me."

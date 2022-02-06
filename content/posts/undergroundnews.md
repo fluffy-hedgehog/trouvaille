@@ -27,10 +27,10 @@ Just like across the United States, the underground press really only represente
 
 There isn't really any information on when *the Root* shut down. The newspaper had been asking for money donations since the very beginning, but they were able to at least publish 4 more issues of volume 2. It's also most likely that it finished not too long after this 4th issue, especially in light of the shutdowns of other newspapers around the same time. Even though the person donating the papers to the library did miss a few editions, they were fairly consistent. Not only this, but the address *the Root* was at, 449 Jefferson St., was eventually demolished on May 25, 1989.
 
-![Photo of article "whose root???"](/whoseroot.jpg)
+![Photo of article "whose root???"](/trouvaille/whoseroot.jpg)
 *Photo from Volume 1, article 5, pg 2 of the Root. Found in box 256 of the GRPL archives.*
 
-![Photo of Carry it on](/whoseroot.jpg)
+![Photo of Carry it on](/trouvaille/whoseroot.jpg)
 *Photo from Volume 2, article 9 page 3 of the Root.*
 
 An interesting tidbit of information is that The Salt, another underground newspaper in Grand Rapids, started up in October/November of 1972. An article in their first issue is written by "Mary Lu Heard", someone who also wrote for *the Root*. As counterculture most likely didn't just disappear with the newspaper, writers could have moved to other outlets to continue to express their ideas in the way they new most. Perhaps a small group of staff founded or moved to a new newspaper after the dissolution of their old.
@@ -81,7 +81,7 @@ There were a few other newspapers operating in Grand Rapids around this time, bu
 ## Now what?
 Both the *Root* and the *New River Free Press* existed because they saw issues in the lack of representative press in Grand Rapids, and because they felt that the opinions of minorities were being hidden amid a wave of political conservatism. Things have changed in Grand Rapids, but that doesn't mean that they've changed for the better, or that newspapers have gotten much better at representation. If we are going off of Yelp! reviews alone, I don't think the Grand Rapids Press is well liked.
 
-![Grand Rapids Press with 1.5 stars on Yelp](/grandrapidspress.png)
+![Grand Rapids Press with 1.5 stars on Yelp](/trouvaille/grandrapidspress.png)
 *I know, I know, only 4 ratings. To be fair, the other 15 ratings that were listed as "not currently recommended" basically said the same things*
 
 To be 100% honest, I have no idea what to suggest as a solution at all. The press in America has become more and more segragated, with different political stances causing a lot of turmoil in the ultimate game of "I'm right and you're wrong!" Maybe it's our job as citizens to advocate for those who lack voices, and open up our ears to things we might not really want to hear. Of course, easier said than done, but I hope this article at least serves as a reminder that there are counterculture movements (albeit with different names) that exist outside the realm of traditional news, and that there may be things happening in Grand Rapids that don't fit with the traditional narrative. Perhaps we can welcome these people, as long as they too choose not to create a city of hatred.
