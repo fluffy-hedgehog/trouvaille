@@ -30,7 +30,7 @@ There isn't really any information on when *the Root* shut down. The newspaper h
 ![Photo of article "whose root???"](/trouvaille/whoseroot.jpg)
 *Photo from Volume 1, article 5, pg 2 of the Root. Found in box 256 of the GRPL archives.*
 
-![Photo of Carry it on](/trouvaille/whoseroot.jpg)
+![Photo of Carry it on](/trouvaille/carryiton.jpg)
 *Photo from Volume 2, article 9 page 3 of the Root.*
 
 An interesting tidbit of information is that The Salt, another underground newspaper in Grand Rapids, started up in October/November of 1972. An article in their first issue is written by "Mary Lu Heard", someone who also wrote for *the Root*. As counterculture most likely didn't just disappear with the newspaper, writers could have moved to other outlets to continue to express their ideas in the way they new most. Perhaps a small group of staff founded or moved to a new newspaper after the dissolution of their old.
