@@ -8,7 +8,7 @@ coverImage: powerstheater.png
 
 Of course, I don't mean the roots of music or entertainment in a macro sense, that would be a bit far from the purpose of this project. Rather, I mean the roots of the establishments that provided entertainment to the Rapidians, from then to now. With many established communities, entertainment was the next step in a growing city. As the entertainment sphere changed across America, many of these things were reflected in Grand Rapids. Opera Houses gave way to theaters, eventually to form Celebration Cinema. Our very own theme park became East Grand Rapids, and our many bands and orchestras shifted over time to less central city-wide type performances. 
 
-This article is a fluid
+This article is a collection of mini essays on different entertainments in Grand Rapids. There isn't an end, but rather more will continue to be added as more research is done.
 
 ## Establishments
 
