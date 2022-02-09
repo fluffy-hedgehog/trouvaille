@@ -14,6 +14,7 @@ I believe that every story is an important one. The bad stories saved as caution
 Since we're using fancy words, please enjoy this project, as it's made with meraki.
 
 Miller
+(Contact me at broughton-m@students.grps.org)
 
 *Disclaimer: This site is for educational purposes only. I believe that all images used in this website abide by Copyright Disclaimer section 107 of the Copyright Act of 1976. That portion of the Copyright Act allows for the use of images for the purposes such as critisism, comment, news reporting, teaching, scholarship, education and research. I do not claim ownership of any of these images unless specifically stated.*
 
